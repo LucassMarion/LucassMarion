@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Oi! Universitário Engenharia de Software em constante evolução!
 <!--
 **LucassMarion/LucassMarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
